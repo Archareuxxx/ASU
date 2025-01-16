@@ -9,7 +9,7 @@ double extensions
 - limit the maximum size of files to be uploaded
 
 > Installation guide
-- git clone https://github.com/username/secure-file-upload.git
+- git clone https://github.com/Archareuxxx/ASU.git
 
 # Notes
 - Make sure your server supports PHP.
